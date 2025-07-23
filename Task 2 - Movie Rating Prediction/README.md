@@ -9,7 +9,7 @@ This project was created as part of the **Data Science Internship at CodSoft**.
 
 ## 🧾 Dataset
 
-- **Source**: IMDb Movies India dataset  
+- **Source**: https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies 
 - **Features Used**:
   - `Genre` (categorical)
   - `Director` (categorical)
