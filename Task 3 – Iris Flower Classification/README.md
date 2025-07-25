@@ -61,3 +61,14 @@ Both models were trained and tested using an **80-20 train-test split**.
 Confusion matrices were plotted using heatmaps to visualize prediction performance for both models.
 
 ---
+
+## 📦 How to Run
+
+1. Clone the repo or download the ZIP.
+2. Open `iris_flower_classification` in Jupyter Notebook.
+3. Run all cells step-by-step.
+4. (Optional) Load the saved model.
+
+## 🔖 Tags
+
+#codsoft #datascience #internship #machinelearning
