@@ -26,7 +26,7 @@ This repository contains the completed tasks for the **CodSoft Data Science Inte
 - Classified iris species based on petal and sepal measurements.
 - Algorithms: Logistic Regression, Random Forest
 - Dataset: Iris Dataset
-- [View Project](./Task%203%20-%20Iris%20Classification)
+- [View Project](./Task%203%20-%20Iris%20Flower%20Classification)
 
 ---
 
