@@ -1,4 +1,4 @@
-# Titanic Survival Prediction - CodSoft Internship (Task 1)
+# 🚢 Titanic Survival Prediction – CodSoft Internship (Task 1)
 
 This project is part of the **CodSoft Data Science Internship**. It aims to predict whether a passenger survived the Titanic disaster based on attributes like gender, age, ticket class, etc.
 
