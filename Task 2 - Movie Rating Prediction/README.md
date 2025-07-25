@@ -68,4 +68,4 @@ This project was created as part of the **Data Science Internship at CodSoft**.
 
 ## 🔖 Tags
 
-#codsoft #datascience #internship #machinelearning #titanic
+#codsoft #datascience #internship #machinelearning
