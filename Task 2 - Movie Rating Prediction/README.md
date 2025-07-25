@@ -9,7 +9,7 @@ This project was created as part of the **Data Science Internship at CodSoft**.
 
 ## 🧾 Dataset
 
-- **Source**: IMDb Movies India dataset  
+- **Source**: https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies 
 - **Features Used**:
   - `Genre` (categorical)
   - `Director` (categorical)
@@ -57,5 +57,15 @@ This project was created as part of the **Data Science Internship at CodSoft**.
 
 > Replace 0.XX and XX.XX with your actual numbers from output.
 
----
+--- 
 
+## 📦 How to Run
+
+1. Clone the repo or download the ZIP.
+2. Open `movie_rating_prediction` in Jupyter Notebook.
+3. Run all cells step-by-step.
+4. (Optional) Load the saved model.
+
+## 🔖 Tags
+
+#codsoft #datascience #internship #machinelearning #titanic
