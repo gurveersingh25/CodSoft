@@ -50,12 +50,11 @@ This project was created as part of the **Data Science Internship at CodSoft**.
 
 ## 📈 Model Results
 
-| Model               | R² Score | MSE       |
-|--------------------|----------|-----------|
-| Linear Regression   | 0.XX     | XX.XX     |
-| Random Forest       | 0.XX     | XX.XX     |
+| Model               | R² Score                 | MSE                    |
+|---------------------|--------------------------|------------------------|
+| Linear Regression   | 0.023177095462295627     | 1.8160555562396012     |
+| Random Forest       | -0.003123724117676252    | 1.864952597156622      |
 
-> Replace 0.XX and XX.XX with your actual numbers from output.
 
 --- 
 
